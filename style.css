@@ -33,6 +33,7 @@ h2 {
     margin-left: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
+    display: block;
 }
 
 #imageL {
@@ -40,6 +41,7 @@ h2 {
     width: 300px;
     margin-bottom: 20px;
     margin-left: 20px;
+    display: block;
 }
 
 #imageO {
@@ -47,6 +49,7 @@ h2 {
     width: 300px;
     margin-bottom: 20px;
     margin-left: 20px;
+    display: block;
 }
 
 #imageM {
@@ -54,4 +57,5 @@ h2 {
     width: 300px;
     margin-bottom: 20px;
     margin-left: 20px;
+    display: block;
 }
